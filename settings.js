@@ -8,13 +8,13 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "233509977126"
+global.ownernomer = "628887172714"
 global.ownername = "RicZin 404 🌟"
 global.ytname = "YT: RicZin 404 🌟"
 global.socialm = "GitHub: RicZin 404 🌟"
 global.location = "404"
 
-global.ownernumber = '555189926591' 
+global.ownernumber = '628887172714' 
 global.ownername = 'RicZin 404 🌟 '
 global.botname = 'RicZin 404'
 
